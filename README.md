@@ -1,4 +1,4 @@
-# LEE JUN JAE
+#  😄 **LEE JUN JAE**
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=eazuooz&count_private=true&theme=radical)
 
