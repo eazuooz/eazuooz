@@ -40,7 +40,7 @@ ___
 ___
 ### **Solved.ac**
 ![LeetCode Stats](https://leetcard.jacoblin.cool/69qoKA0vBD?theme=nord&font=Coda)
-#[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eazuooz)](https://solved.ac/eazuooz/)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eazuooz)](https://solved.ac/eazuooz/)-->
 
 ___
 
