@@ -39,8 +39,8 @@ ___
 ![Seungyeon Jung GitHub stats](https://github-readme-stats.vercel.app/api?username=eazuooz&show_icons=true&theme=tokyonight)
 ___
 ### **Solved.ac**
-![LeetCode Stats](https://leetcard.jacoblin.cool/eazuooz?theme=nord&font=Coda)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eazuooz)](https://solved.ac/eazuooz/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/69qoKA0vBD?theme=nord&font=Coda)
+#[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eazuooz)](https://solved.ac/eazuooz/)
 
 ___
 
