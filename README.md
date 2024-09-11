@@ -40,7 +40,7 @@ ___
 ___
 ### **Solved.ac**
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eazuooz)](https://solved.ac/eazuooz/)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/eazuooz)
 ___
 
  ### 💬**Contact**
