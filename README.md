@@ -39,8 +39,9 @@ ___
 ![Seungyeon Jung GitHub stats](https://github-readme-stats.vercel.app/api?username=eazuooz&show_icons=true&theme=tokyonight)
 ___
 ### **Solved.ac**
+![Leetcode Stats](https://leetcard.eazuooz/eazuooz)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eazuooz)](https://solved.ac/eazuooz/)
-![Leetcode Stats](https://leetcard.jacoblin.cool/eazuooz)
+
 ___
 
  ### 💬**Contact**
