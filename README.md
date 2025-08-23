@@ -1,3 +1,49 @@
+# 🐾 얌얌코딩 (YamYamCoding)
+
+<!--<img src="https://github.com/eazuooz/YamYam_Engine/assets/46310910/e312db09-9416-483e-9673-df972081e0bf" width="40%"/>-->
+
+## 🎮 About YamYamCoding
+**얌얌코딩**은 게임 개발자와 프로그래머를 위한  
+**무료/유료 교육, 커뮤니티, 오픈소스, 멘토링**을 제공하는 공간입니다.  
+
+- ✨ 게임 개발 & 그래픽스 심화 강좌
+- 🎥 유튜브를 통한 실습형 강의
+- 🐱 디스코드 커뮤니티 운영
+- 📚 Inflearn 강좌 & 실습 프로젝트
+- 🛠️ DirectX / Unity / Unreal 기반 오픈소스 엔진 연구
+
+---
+
+## 🌐 Links
+- [🌍 공식 홈페이지](https://www.yamyamcoding.com/)
+- [🎬 유튜브 채널](https://www.youtube.com/channel/UCOgtkPoyC0VXhCs7Xk3jvjQ)
+- [💬 디스코드 커뮤니티](https://discord.com/invite/wZuqe7fqkR)
+- [📚 Inflearn 강좌](https://www.inflearn.com/users/1237927/@eazuooz)
+
+---
+
+## 🛠️ Tech & Tools
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+![C#](https://img.shields.io/badge/C%20Sharp-239128.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white)
+![DirectX](https://img.shields.io/badge/DirectX-0078D7.svg?&style=for-the-badge&logo=Microsoft&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128.svg?&style=for-the-badge&logo=Unreal-Engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+---
+
+## 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eazuooz&count_private=true&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eazuooz&theme=radical&card_height=130&card_width=500)
+
+---
+
+## 📫 Contact
+- 📧 eazuooz@gmail.com  
+- 📱 010-3177-7001  
+
+<!--
 #  😄 **LEE JUN JAE**
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=eazuooz&count_private=true&theme=radical)
@@ -16,6 +62,7 @@
 <!-- ![Java](https://img.shields.io/badge/Java-007396.svg?&amp;style=for-the-badge&amp;logo=Java&amp;logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&amp;style=for-the-badge&amp;logo=Spring&amp;logoColor=white)\ -->
 
+<!--
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&amp;style=for-the-badge&amp;logo=C++&amp;logoColor=white)
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&amp;style=for-the-badge&amp;logo=C&amp;logoColor=white)
@@ -26,6 +73,7 @@
 <!-- ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&amp;style=for-the-badge&amp;logo=Android&amp;logoColor=white) -->
 <!-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&amp;style=for-the-badge&amp;logo=MySQL&amp;logoColor=white) -->
 
+<!--
 ### **Tools**
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128.svg?&amp;style=for-the-badge&amp;logo=Unreal_Engine%20Studio&amp;logoColor=white)
 
@@ -42,6 +90,7 @@ ___
 ![LeetCode Stats](https://leetcard.jacoblin.cool/eazuooz?theme=nord&font=Coda)
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eazuooz)](https://solved.ac/eazuooz/)-->
 
+<!--
 ___
 
  ### 💬**Contact**
@@ -64,3 +113,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
