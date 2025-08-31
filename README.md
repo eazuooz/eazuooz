@@ -1,5 +1,5 @@
 # 🐾 얌얌코딩 (YamYamCoding)
-<img src="https://github.com/eazuooz/YamYam_Engine/assets/46310910/92d3936c-09ad-41f1-a78c-d5826b742252" width="40%"/>
+<img src="https://github.com/user-attachments/assets/92d3936c-09ad-41f1-a78c-d5826b742252" width="40%"/>
 <!--<img src="https://github.com/eazuooz/YamYam_Engine/assets/46310910/e312db09-9416-483e-9673-df972081e0bf" width="40%"/>-->
 
 ## 🎮 About YamYamCoding
