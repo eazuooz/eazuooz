@@ -17,7 +17,7 @@
 ## 🌐 Links
 - [🌍 공식 홈페이지](https://www.yamyamcoding.com/)
 - [🎬 유튜브 채널](https://www.youtube.com/channel/UCOgtkPoyC0VXhCs7Xk3jvjQ)
-- [💬 디스코드 커뮤니티](https://discord.com/invite/wZuqe7fqkR)
+- [💬 게임 개발 커뮤니티](https://discord.com/invite/wZuqe7fqkR)
 - [📚 Inflearn 강좌](https://www.inflearn.com/users/1237927/@eazuooz)
 
 ---
