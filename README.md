@@ -32,11 +32,11 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ---
-
+<!--
 ## 📊 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eazuooz&count_private=true&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eazuooz&theme=radical&card_height=130&card_width=500)
-
+-->
 ---
 
 ## 📫 Contact
