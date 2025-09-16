@@ -22,6 +22,27 @@
 
 ---
 
+## 🎮 About YamYamCoding
+**YamYamCoding** is a hub for game developers and programmers,  
+offering **free & paid education, community, open-source projects, and mentoring.**
+
+- ✨ Advanced courses on game development & computer graphics  
+- 🎥 Hands-on tutorials through YouTube  
+- 🐱 Active Discord community for collaboration & Q&A  
+- 📚 Inflearn courses & practice projects  
+- 🛠️ Open-source engine research with DirectX / Unity / Unreal  
+
+*(Our goal is to make advanced graphics and game development more accessible to everyone, from beginners to professionals.)*
+
+---
+
+## 🌐 Links
+- [🌍 Official Website](https://www.yamyamcoding.com/) — Explore all our resources in one place  
+- [🎬 YouTube Channel](https://www.youtube.com/channel/UCOgtkPoyC0VXhCs7Xk3jvjQ) — Practical coding & graphics tutorials  
+- [💬 Discord Community](https://discord.com/invite/wZuqe7fqkR) — Connect with developers worldwide  
+- [📚 Inflearn Courses](https://www.inflearn.com/en/users/1237927/@eazuooz) — Structured learning with projects  
+
+
 ## 🛠️ Tech & Tools
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ![C#](https://img.shields.io/badge/C%20Sharp-239128.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white)
