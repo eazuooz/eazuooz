@@ -2,35 +2,22 @@
 <img src="https://github.com/user-attachments/assets/92d3936c-09ad-41f1-a78c-d5826b742252">
 <!--<img src="https://github.com/eazuooz/YamYam_Engine/assets/46310910/e312db09-9416-483e-9673-df972081e0bf" width="40%"/>-->
 
-## 🎮 About YamYamCoding
-**얌얌코딩**은 게임 개발자와 프로그래머를 위한  
-**무료/유료 교육, 커뮤니티, 오픈소스, 멘토링**을 제공하는 공간입니다.  
 
-- ✨ 게임 개발 & 그래픽스 심화 강좌
-- 🎥 유튜브를 통한 실습형 강의
-- 🐱 디스코드 커뮤니티 운영
-- 📚 Inflearn 강좌 & 실습 프로젝트
-- 🛠️ DirectX / Unity / Unreal 기반 오픈소스 엔진 연구
-
----
-
-## 🌐 Links
-- [🌍 공식 홈페이지](https://www.yamyamcoding.com/)
-- [🎬 유튜브 채널](https://www.youtube.com/channel/UCOgtkPoyC0VXhCs7Xk3jvjQ)
-- [💬 게임 개발 커뮤니티](https://discord.com/invite/wZuqe7fqkR)
-- [📚 Inflearn 강좌](https://www.inflearn.com/users/1237927/@eazuooz)
-
----
 
 ## 🎮 About YamYamCoding
-**YamYamCoding** is a hub for game developers and programmers,  
+**YamYamCoding** is a hub for game developers and programmers
+
+(**얌얌코딩**은 게임 개발자와 프로그래머를 위한)
+
 offering **free & paid education, community, open-source projects, and mentoring.**
 
-- ✨ Advanced courses on game development & computer graphics  
-- 🎥 Hands-on tutorials through YouTube  
-- 🐱 Active Discord community for collaboration & Q&A  
-- 📚 Inflearn courses & practice projects  
-- 🛠️ Open-source engine research with DirectX / Unity / Unreal  
+(**무료/유료 교육, 커뮤니티, 오픈소스, 멘토링**을 제공하는 공간입니다. ** )
+
+- ✨ Advanced courses on game development & computer graphics  (게임 개발 & 그래픽스 심화 강좌)
+- 🎥 Hands-on tutorials through YouTube  (유튜브를 통한 실습형 강의)
+- 🐱 Active Discord community for collaboration & Q&A  (디스코드 커뮤니티 운영)
+- 📚 Inflearn courses & practice projects  (Inflearn 강좌 & 실습 프로젝트)
+- 🛠️ Open-source engine research with DirectX / Unity / Unreal  (DirectX / Unity / Unreal 기반 오픈소스 엔진 연구)
 
 *(Our goal is to make advanced graphics and game development more accessible to everyone, from beginners to professionals.)*
 
@@ -40,8 +27,8 @@ offering **free & paid education, community, open-source projects, and mentoring
 - [🌍 Official Website](https://www.yamyamcoding.com/) — Explore all our resources in one place  
 - [🎬 YouTube Channel](https://www.youtube.com/channel/UCOgtkPoyC0VXhCs7Xk3jvjQ) — Practical coding & graphics tutorials  
 - [💬 Discord Community](https://discord.com/invite/wZuqe7fqkR) — Connect with developers worldwide  
-- [📚 Inflearn Courses](https://www.inflearn.com/en/users/1237927/@eazuooz) — Structured learning with projects  
-
+- [📚 Inflearn Courses(english)](https://www.inflearn.com/en/users/1237927/@eazuooz) — Structured learning with projects  
+- [📚 Inflearn 강좌(korean)](https://www.inflearn.com/users/1237927/@eazuooz)
 
 ## 🛠️ Tech & Tools
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
